@@ -1,5 +1,5 @@
 /* Bump CACHE whenever you change index.html so phones pick the new version up. */
-const CACHE = "rs-links-v1";
+const CACHE = "rs-links-v2";
 
 const SHELL = [
   "./",

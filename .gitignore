@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / local tooling
+.vscode/
+.idea/
+
+# Never publish dependencies from this static site
+node_modules/
